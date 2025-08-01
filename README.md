@@ -1,6 +1,6 @@
 # 🌍 https://football-match-prediction-guansntpxftxcn7zxdikzk.streamlit.app/
 
-# ⚽ THE LEGENDARY FOOTBALL MATCH OUTCOME PREDICTOR
+# ⚽ THE FOOTBALL MATCH OUTCOME PREDICTOR
 
 A creation by none other than: **RAHUL SWAROOP**  
 Welcome to the future — where football meets artificial intelligence, and predictions feel like prophecy.
